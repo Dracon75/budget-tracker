@@ -5,6 +5,7 @@ const MY_CACHE = [
   "/",
   "/db.js",
   "/index.js",
+  "/index.html",
   "/manifest.json",
   "/styles.css",
   "/icons/icon-192x192.png",
